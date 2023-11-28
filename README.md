@@ -41,7 +41,7 @@ O objetivo dessas atividades é explorar informações sobre indicados, vencedor
 
 ## Como Executar
 
-As atividades foram realizadas utilizando linguagens de programação como Python, SQL ou outras ferramentas de análise de dados. Para executar ou entender cada atividade, é necessário verificar os arquivos e códigos fornecidos neste repositório.
+As atividades foram realizadas utilizando SQL. Para executar é necessário verificar os arquivos e códigos fornecidos neste repositório.
 
 ---
 
